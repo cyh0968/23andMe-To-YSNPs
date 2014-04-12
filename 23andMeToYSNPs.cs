@@ -179,7 +179,7 @@ namespace NS23andMeToYSNPs
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Developer : Felix Chandrakumar <i@fc.id.au>\r\nBuild Date : 8-Apr-2014\r\nWebsite : www.y-str.org.\r\nApplication supports only Build 37.\r\n\r\nIcon : http://www.iconarchive.com/artist/hydrattz.html", "About 23andMe to Y-SNPs", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Developer : Felix Chandrakumar <i@fc.id.au>\r\nBuild Date : 12-Apr-2014\r\nWebsite : www.y-str.org.\r\nApplication supports only Build 37.\r\n\r\nIcon : http://www.iconarchive.com/artist/hydrattz.html \r\nData from ISOGG, Dr Jim Wilson and ScotlandsDNA.\r\nRef: http://www.yourgeneticgenealogist.com/2014/03/dr-jim-wilson-and-scotlandsdna-release.html", "About 23andMe to Y-SNPs", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void saveSNPsToolStripMenuItem_Click(object sender, EventArgs e)
